@@ -1,0 +1,15 @@
+GET http://localhost:3000/todos/
+
+### 
+
+GET http://localhost:3000/todos/2
+
+###
+
+POST http://localhost:3000/todos/
+
+###
+
+PUT http://localhost:3000/todos/3
+
+DELETE http://localhost:3000/todos/1
